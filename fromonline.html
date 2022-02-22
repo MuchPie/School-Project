@@ -2,24 +2,23 @@
 <html lang="en">
 
 <head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<title>Who wants to be a millionaire?</title>
+	<title>Money Making Quiz</title>
 	<link rel="stylesheet" href="fromonline.css">
 </head>
 
 <body>
 	<header>
-		<h2></h2>
+		<div class="header>"><h1>Money Making Quiz</h1></div>
 	</header>
 	<div class="main-container">
 		<div class="upper-container">
 			<button class="start">START</button>
 			<div class="game-status-container hidden"></div>
 		</div>
+		<div class="NextQuestion">
 		<div class="next-question-container hidden">
 			<button class="next-question">NEXT QUESTION</button>
+		</div>
 		</div>
 		<div class="game-container hidden">
 			<div class="help-buttons">
@@ -29,11 +28,13 @@
 			</div>
 			<div class="question-container"></div>
 			<div class="answer-container">
-				<ol type="A" class="answers">
-				</ol>
+				<p type="A" class="answers">
+				</p>
 			</div>
 		</div>
+		<div class="points">
 		<div class="points-container hidden">0</div>
+		</div>
 	</div>
 	<audio id="lets-play" src="https://millionaire-school.netlify.com/sounds/lets_play.mp3"></audio>
 	<audio id="easy" src="https://millionaire-school.netlify.com/sounds/easy.mp3"></audio>
