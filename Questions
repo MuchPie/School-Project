@@ -1,0 +1,157 @@
+{
+	"games" : [
+		{
+			"question" : [
+				{
+					"question" : "Wat is de eerste Star Wars film?",
+					"content" : [
+						"Star Wars: The Phantom Menance",
+						"Star Wars: A New Hope",
+						"Star Wars: The Force Awakens",
+						"Star Wars: The Rise of Skywalker"
+					],
+				},
+				{
+					"question" : "Hoe heet de leider van Peaky Blinders?",
+					"content" : [
+						"Thomas Shelby",
+						"Michael Gray",
+						"Arthur Shelby",
+						"Polly Shelby"
+					],
+					"correct" : 0
+				},	
+				{
+					"question" : "Wie is de bedrijfleider in de serie 'The Office'?"
+					"content" : [
+						"Jim Halpert",
+						"Devin Malone",
+						"Dwight Schrute",
+						"Micheal Scott"
+					],
+					"correct" : 3
+				},
+				{
+					"question" : "Waar reizen de astronauten van de film 'Interstellar' naartoe?"
+					"content" : [
+						"De maan",
+						"Saturnus",
+						"Jupiter",
+						"Mars"
+					],
+					"correct" : 1
+				},
+				{
+					"question" : "Welke drug produceerde Walter 'Heisenberg' WHite in de serie 'Breaking Bad'?"
+					"content" : [
+						"Crystal Meth",
+						"Heroine",
+						"Crack",
+						"Marijuana"
+					],
+					"correct" : 0
+				},
+				{
+					"question" : "Hoeveel seizoenen heeft de serie 'Friends'?"
+					"content" : [
+						"4",
+						"7",
+						"10",
+						"12"
+					],
+					"correct" : 2
+				},
+				{
+					"question" : "In welk jaar overleed Pablo Escobar?"
+					"content" : [
+						"1987",
+						"1990",
+						"1991",
+						"1993"
+					],
+					"correct" : 0
+				},
+				{
+					"question" : "In welk jaar kwam de eerste film van 'Harry Potter' uit?"
+					"content" : [
+						"2001",
+						"2003",
+						"2004",
+						"2006"
+					],
+					"correct" : 1
+				},
+				{
+					"question" : "Naar welke stad ging de vriendengroep uit de 'Hangover' op vrijgezellenfeest?"
+					"content" : [
+						"Las Vegas",
+						"Los Angeles",
+						"New York",
+						"Chicago"
+					],
+					"correct" : 0
+				},
+				{
+					"question" : "Welke kleur was de bekende cabrio van Michael Scott?"
+					"content" : [
+						"Geel",
+						"Blauw",
+						"Rood",
+						"Groen"
+					],
+					"correct" : 0
+				},
+				{
+					"question" : "Hoe heet het masker dat de overvallers in 'La Casa de Papel' dragen?"
+					"content" : [
+						"Mondriaan masker",
+						"Dali masker",
+						"Anonymous masker",
+						"Jason masker"
+					],
+					"correct" : 0
+				},
+				{
+					"question" : "Over welke voetballer is er nog geen Netflix documentaire geproduceert?"
+					"content" : [
+						"Cristiano Ronaldo",
+						"Neymar jr.",
+						"Pele",
+						"Lionel Messi"
+					],
+					"correct" : 0
+				},
+				{
+					"question" : "Hoeveel vrienden zaten er in de vriendengroep van de serie 'Outer Banks'?"
+					"content" : [
+						"3",
+						"5",
+						"6",
+						"8"
+					],
+					"correct" : 0
+				},
+				{
+					"question" : "Welke van deze producties is NIET gebaseerd op een waargebeurd verhaal?"
+					"content" : [
+						"Ozark",
+						"Breaking Bad",
+						"the Wolf of Wallstreet",
+						"the Social Network"
+					],
+					"correct" : 1
+				},
+				{
+					"question" : "In welk land werd Adolf Eichmann gevonden?"
+					"content" : [
+						"Mexico",
+						"Nieuw Zeeland",
+						"Argentinie",
+						"Zuid-Afrika"
+					],
+					"correct" : 2
+				},
+			]
+		}
+	]
+}
